@@ -7,6 +7,8 @@ Workflow
 1. Get the data!!!
 This is my import procedure
 
+adding things
+
 ```{r}
 library(haven)
 cars <- read_sas("http://www.principlesofeconometrics.com/sas/cars.sas7bdat", 
